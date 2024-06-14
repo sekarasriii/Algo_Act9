@@ -7,6 +7,7 @@ using namespace std;
 using namespace std;
 
 class Node {
+
 public:
 	string info;
 	Node* leftchild;
